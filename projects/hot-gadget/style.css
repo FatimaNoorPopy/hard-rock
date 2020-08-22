@@ -1,0 +1,40 @@
+.container
+{
+    margin-bottom: 100px;
+}
+.st{
+margin-top: 50px;
+margin-left: 40px;
+margin-right: 200px;
+}
+.buy-now
+{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.card
+{
+    border:none!important;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-text
+{
+    color: gray;
+}
+
+.carousel-indicators li
+{
+    width: 17px;
+    height: 10px;
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+}
+.carousel-indicators.active
+{
+   background-color: orange;
+   width: 35px;
+   border-radius: 10px;
+}
